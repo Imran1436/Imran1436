@@ -1,0 +1,42 @@
+.imgstyle{
+    height: 50px;
+    width: 253px;
+    background-color: black;
+}
+
+.topHeader{
+    
+        background-color: black;
+        height: 112px;
+        padding: 15px;
+}
+
+#nav-bar{
+    float: right;
+}
+
+.section-headh2 {
+    color: #0d6efd;
+    margin: 0px;
+    font-size: 30px;
+}
+
+.pageBody{
+    
+    padding: 0px 35px 0px 20px;
+    
+}
+
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 33.3%;
+}
+
+.navbar a:hover {
+    cursor: pointer;
+    color: green;
+  }
